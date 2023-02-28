@@ -1,0 +1,7 @@
+../Core/Src/menu.c:33:6:reset_CP_position	4	static
+../Core/Src/menu.c:43:6:refresh_structarray	16	static
+../Core/Src/menu.c:60:6:refreshStructPos	8	static
+../Core/Src/menu.c:67:6:refreshStructPosLVL1	16	static
+../Core/Src/menu.c:80:6:menu_refresh	24	static
+../Core/Src/menu.c:90:6:checkTapArea	4	static
+../Core/Src/menu.c:111:6:menu_enter	8	static

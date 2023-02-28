@@ -1,0 +1,4 @@
+../Core/Src/menu_callbacks.c:12:7:ACVISITION_ON	8	static
+../Core/Src/menu_callbacks.c:16:6:ACVISITION_OFF	8	static
+../Core/Src/menu_callbacks.c:20:7:RSTACV	8	static
+../Core/Src/menu_callbacks.c:29:6:PRINT	4	static

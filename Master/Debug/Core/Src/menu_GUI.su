@@ -1,0 +1,5 @@
+../Core/Src/menu_GUI.c:7:7:print_S1	32	static
+../Core/Src/menu_GUI.c:13:7:print_S2	32	static
+../Core/Src/menu_GUI.c:18:7:print_S3	32	static
+../Core/Src/menu_GUI.c:23:7:print_S4	32	static
+../Core/Src/menu_GUI.c:29:7:refresh_taskbar	16	static
